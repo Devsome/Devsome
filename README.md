@@ -12,5 +12,5 @@ When it's bad, it's better than nothing.
 </p>
 
 <p>
-![](https://komarev.com/ghpvc/?username=Devsome&label=Profile views&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Devsome&label=Profile+views&style=flat-square)
 </p>
