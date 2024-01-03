@@ -1,7 +1,6 @@
 <h2 align="center">Sup there 👋🏼</h2>
 
 <p align="center">
-  <a href="https://twitter.com/realDevsome">Twitter</a> -
   <a href="https://devsome.com/">Website</a>
 </p>
 
